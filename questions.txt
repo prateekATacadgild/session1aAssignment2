@@ -1,0 +1,49 @@
+1. What constitutes Big Data?
+d. All the above
+
+2. Solution Identified to handle Big Data is?
+d. All of these
+Big Data Developer
+
+3. Doug cutting added DFS & MapReduce support to:
+c) GFS
+
+
+4. Which file system is followed by Hadoop?
+c. HDFS
+
+5. How much data can be considered as a BigData with regards to
+volume?
+d. b & c
+
+6. Can Hadoop process data in real time?
+b. No
+
+7. Hadoop is developed using?
+c. Java 
+Big Data Developer
+
+8. Hadoop reduces cost of operation by?
+a. Using commodity Hardware
+
+9. Search engine adopted in Hadoop is?
+b. Yahoo
+
+10. Stream processing can be achieved in Hadoop using?
+c. Both of these
+
+11. What is the highest data unit we have at present?
+d. Brontobyte
+Big Data Developer
+
+12. Hadoop is well suited for clusters where:
+b. Number of nodes are constant
+
+13. What is batch processing?
+a. processing of previously collected jobs in a single batch.
+
+14. What is stream processing?
+c. Both of these
+
+15. Hadoop uses?
+d. All the above
